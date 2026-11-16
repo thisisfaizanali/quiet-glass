@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+<defs><filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="110"/></filter></defs>
+<style>
+.a{animation:d1 16s ease-in-out infinite alternate}.c{animation:d2 20s ease-in-out infinite alternate}
+@keyframes d1{to{transform:translate(70px,40px)}}@keyframes d2{to{transform:translate(-80px,-36px)}}
+@media (prefers-reduced-motion:reduce){.a,.c{animation:none}}</style>
+<rect width="1280" height="640" fill="#212025"/>
+<g filter="url(#b)">
+<circle class="a" cx="260" cy="170" r="330" fill="#524869" opacity=".9"/>
+<circle class="c" cx="1040" cy="500" r="350" fill="#445250" opacity=".8"/>
+<circle class="a" cx="980" cy="110" r="180" fill="#603d4b" opacity=".35"/>
+</g>
+<rect x="250" y="150" width="780" height="340" rx="28" fill="#26252b" fill-opacity=".38" stroke="#e6e3ec" stroke-opacity=".12"/>
+<text x="640" y="290" text-anchor="middle" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="84" font-weight="600" letter-spacing="-2" fill="#e6e3ec">quiet-glass</text>
+<text x="640" y="350" text-anchor="middle" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="26" fill="#bdb8c8">A calm, minimal frosted-glass theme for Claude</text>
+<text x="640" y="392" text-anchor="middle" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="18" fill="#9a95a6">nine soft variants · five dark · four light · one command</text>
+<circle cx="504" cy="452" r="11" fill="#524869" stroke="#8b7bb8" stroke-width="4"/><circle cx="538" cy="452" r="11" fill="#3d5747" stroke="#7fa08a" stroke-width="4"/><circle cx="572" cy="452" r="11" fill="#603d4b" stroke="#b07a8e" stroke-width="4"/><circle cx="606" cy="452" r="11" fill="#3f4465" stroke="#7b80b8" stroke-width="4"/><circle cx="640" cy="452" r="11" fill="#604439" stroke="#b5806a" stroke-width="4"/><circle cx="674" cy="452" r="11" fill="#dcd8e4" stroke="#6b5a9a" stroke-width="4"/><circle cx="708" cy="452" r="11" fill="#d6dfd7" stroke="#4f7a5e" stroke-width="4"/><circle cx="742" cy="452" r="11" fill="#e2d6d7" stroke="#9a5a6a" stroke-width="4"/><circle cx="776" cy="452" r="11" fill="#dad7d3" stroke="#6e6288" stroke-width="4"/>
+</svg>

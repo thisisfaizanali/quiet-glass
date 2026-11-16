@@ -1,12 +1,37 @@
-# quiet-glass
+<div align="center">
 
-A calm, minimal frosted-glass theme for the Claude desktop app. Soft colors, a slow drifting glow behind a sheet of glass, and nothing loud: no yellow, no light blue, no pure white or black.
+<img src="assets/banner.svg" alt="quiet-glass: a calm, minimal frosted-glass theme for Claude" width="100%">
 
-Nine variants, five dark and four light, switched with one slash command. Your pick is remembered.
+<br>
+
+[![License: MIT](https://img.shields.io/badge/license-MIT-8b7bb8?style=flat-square)](LICENSE)
+![Claude desktop](https://img.shields.io/badge/Claude-desktop%20%26%20mobile-7fa08a?style=flat-square)
+![9 variants](https://img.shields.io/badge/variants-5%20dark%20%C2%B7%204%20light-b07a8e?style=flat-square)
+![Calm](https://img.shields.io/badge/motion-respects%20reduced%20motion-7b80b8?style=flat-square)
+
+**A calm, minimal frosted-glass theme for the Claude desktop app.**<br>
+Soft colors, a slow drifting glow behind a sheet of glass, and nothing loud.
+
+[Install](#install) · [Variants](#variants) · [Usage](#usage) · [Tweaking](#tweaking)
+
+</div>
+
+---
+
+## Why
+
+Most themes shout. quiet-glass whispers. It's built on a few rules:
+
+- **No glare.** No pure white, no pure black. The light variants are tinted, never white.
+- **No neon.** No yellow, no light blue, no saturated accents.
+- **Barely-there motion.** Two blurred glows drift over 90 to 110 seconds. Turn on reduced motion and they stand still.
+- **One command.** `/quiet-glass moss` and you're done. Your pick is remembered across sessions.
 
 > quiet-glass draws in the **desktop and mobile apps** only. The terminal shows no theme.
 
 ## Variants
+
+<img src="assets/variants.svg" alt="All nine quiet-glass variants: dusk, moss, wine, ink, ember, lilac, sage, clay, stone" width="100%">
 
 | Name | Mode | Feel |
 | --- | --- | --- |

@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1188" height="828" viewBox="0 0 1188 828">
+<defs><filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="45"/></filter></defs>
+<g>
+<clipPath id="c0"><rect x="0" y="0" width="380" height="260" rx="18"/></clipPath>
+<g clip-path="url(#c0)">
+<rect x="0" y="0" width="380" height="260" fill="#212025"/>
+<g filter="url(#b)"><circle cx="80" cy="60" r="120" fill="#524869" opacity=".85"/><circle cx="320" cy="210" r="130" fill="#445250" opacity=".75"/></g>
+<rect x="0" y="0" width="380" height="260" fill="#212025" opacity="0.25"/>
+<g>
+<rect x="24" y="22" width="332" height="160" rx="12" fill="#26252b" fill-opacity=".55" stroke="#9a95a6" stroke-opacity=".22"/>
+<circle cx="40" cy="37" r="3.5" fill="#9a95a6" opacity=".5"/><circle cx="52" cy="37" r="3.5" fill="#9a95a6" opacity=".5"/><circle cx="64" cy="37" r="3.5" fill="#9a95a6" opacity=".5"/>
+<rect x="206" y="54" width="134" height="26" rx="10" fill="#2f2e36" fill-opacity=".9"/>
+<rect x="216" y="64" width="100" height="7" rx="3.5" fill="#bdb8c8" opacity="1"/>
+<rect x="40" y="94" width="262" height="7" rx="3.5" fill="#e6e3ec" opacity="0.85"/><rect x="40" y="108" width="222" height="7" rx="3.5" fill="#bdb8c8" opacity="0.75"/><rect x="40" y="122" width="182" height="7" rx="3.5" fill="#9a95a6" opacity="0.7"/>
+<rect x="40" y="148" width="300" height="22" rx="11" fill="#2f2e36" fill-opacity=".7" stroke="#9a95a6" stroke-opacity=".2"/>
+<circle cx="329" cy="159" r="7" fill="#8b7bb8"/>
+</g>
+<text x="26" y="222" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#e6e3ec">dusk</text>
+<text x="26" y="244" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#9a95a6">dark · graphite + plum</text>
+</g>
+<rect x="0.5" y="0.5" width="379" height="259" rx="18" fill="none" stroke="#9a95a6" stroke-opacity=".25"/>
+</g>
+<g>
+<clipPath id="c1"><rect x="404" y="0" width="380" height="260" rx="18"/></clipPath>
+<g clip-path="url(#c1)">
+<rect x="404" y="0" width="380" height="260" fill="#1f2320"/>
+<g filter="url(#b)"><circle cx="484" cy="60" r="120" fill="#3d5747" opacity=".85"/><circle cx="724" cy="210" r="130" fill="#485040" opacity=".75"/></g>
+<rect x="404" y="0" width="380" height="260" fill="#1f2320" opacity="0.25"/>
+<g>
+<rect x="428" y="22" width="332" height="160" rx="12" fill="#242925" fill-opacity=".55" stroke="#95a297" stroke-opacity=".22"/>
+<circle cx="444" cy="37" r="3.5" fill="#95a297" opacity=".5"/><circle cx="456" cy="37" r="3.5" fill="#95a297" opacity=".5"/><circle cx="468" cy="37" r="3.5" fill="#95a297" opacity=".5"/>
+<rect x="610" y="54" width="134" height="26" rx="10" fill="#2d342e" fill-opacity=".9"/>
+<rect x="620" y="64" width="100" height="7" rx="3.5" fill="#b9c4bb" opacity="1"/>
+<rect x="444" y="94" width="262" height="7" rx="3.5" fill="#e2e9e3" opacity="0.85"/><rect x="444" y="108" width="222" height="7" rx="3.5" fill="#b9c4bb" opacity="0.75"/><rect x="444" y="122" width="182" height="7" rx="3.5" fill="#95a297" opacity="0.7"/>
+<rect x="444" y="148" width="300" height="22" rx="11" fill="#2d342e" fill-opacity=".7" stroke="#95a297" stroke-opacity=".2"/>
+<circle cx="733" cy="159" r="7" fill="#7fa08a"/>
+</g>
+<text x="430" y="222" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#e2e9e3">moss</text>
+<text x="430" y="244" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#95a297">dark · forest at night</text>
+</g>
+<rect x="404.5" y="0.5" width="379" height="259" rx="18" fill="none" stroke="#95a297" stroke-opacity=".25"/>
+</g>
+<g>
+<clipPath id="c2"><rect x="808" y="0" width="380" height="260" rx="18"/></clipPath>
+<g clip-path="url(#c2)">
+<rect x="808" y="0" width="380" height="260" fill="#242022"/>
+<g filter="url(#b)"><circle cx="888" cy="60" r="120" fill="#603d4b" opacity=".85"/><circle cx="1128" cy="210" r="130" fill="#4b3e52" opacity=".75"/></g>
+<rect x="808" y="0" width="380" height="260" fill="#242022" opacity="0.25"/>
+<g>
+<rect x="832" y="22" width="332" height="160" rx="12" fill="#2a2527" fill-opacity=".55" stroke="#a6959b" stroke-opacity=".22"/>
+<circle cx="848" cy="37" r="3.5" fill="#a6959b" opacity=".5"/><circle cx="860" cy="37" r="3.5" fill="#a6959b" opacity=".5"/><circle cx="872" cy="37" r="3.5" fill="#a6959b" opacity=".5"/>
+<rect x="1014" y="54" width="134" height="26" rx="10" fill="#342e31" fill-opacity=".9"/>
+<rect x="1024" y="64" width="100" height="7" rx="3.5" fill="#c8b9be" opacity="1"/>
+<rect x="848" y="94" width="262" height="7" rx="3.5" fill="#ece3e6" opacity="0.85"/><rect x="848" y="108" width="222" height="7" rx="3.5" fill="#c8b9be" opacity="0.75"/><rect x="848" y="122" width="182" height="7" rx="3.5" fill="#a6959b" opacity="0.7"/>
+<rect x="848" y="148" width="300" height="22" rx="11" fill="#342e31" fill-opacity=".7" stroke="#a6959b" stroke-opacity=".2"/>
+<circle cx="1137" cy="159" r="7" fill="#b07a8e"/>
+</g>
+<text x="834" y="222" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#ece3e6">wine</text>
+<text x="834" y="244" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#a6959b">dark · burgundy + rose</text>
+</g>
+<rect x="808.5" y="0.5" width="379" height="259" rx="18" fill="none" stroke="#a6959b" stroke-opacity=".25"/>
+</g>
+<g>
+<clipPath id="c3"><rect x="0" y="284" width="380" height="260" rx="18"/></clipPath>
+<g clip-path="url(#c3)">
+<rect x="0" y="284" width="380" height="260" fill="#202126"/>
+<g filter="url(#b)"><circle cx="80" cy="344" r="120" fill="#3f4465" opacity=".85"/><circle cx="320" cy="494" r="130" fill="#44444e" opacity=".75"/></g>
+<rect x="0" y="284" width="380" height="260" fill="#202126" opacity="0.25"/>
+<g>
+<rect x="24" y="306" width="332" height="160" rx="12" fill="#25262c" fill-opacity=".55" stroke="#9698a6" stroke-opacity=".22"/>
+<circle cx="40" cy="321" r="3.5" fill="#9698a6" opacity=".5"/><circle cx="52" cy="321" r="3.5" fill="#9698a6" opacity=".5"/><circle cx="64" cy="321" r="3.5" fill="#9698a6" opacity=".5"/>
+<rect x="206" y="338" width="134" height="26" rx="10" fill="#2e2f37" fill-opacity=".9"/>
+<rect x="216" y="348" width="100" height="7" rx="3.5" fill="#babcc8" opacity="1"/>
+<rect x="40" y="378" width="262" height="7" rx="3.5" fill="#e3e4ec" opacity="0.85"/><rect x="40" y="392" width="222" height="7" rx="3.5" fill="#babcc8" opacity="0.75"/><rect x="40" y="406" width="182" height="7" rx="3.5" fill="#9698a6" opacity="0.7"/>
+<rect x="40" y="432" width="300" height="22" rx="11" fill="#2e2f37" fill-opacity=".7" stroke="#9698a6" stroke-opacity=".2"/>
+<circle cx="329" cy="443" r="7" fill="#7b80b8"/>
+</g>
+<text x="26" y="506" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#e3e4ec">ink</text>
+<text x="26" y="528" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#9698a6">dark · charcoal + indigo</text>
+</g>
+<rect x="0.5" y="284.5" width="379" height="259" rx="18" fill="none" stroke="#9698a6" stroke-opacity=".25"/>
+</g>
+<g>
+<clipPath id="c4"><rect x="404" y="284" width="380" height="260" rx="18"/></clipPath>
+<g clip-path="url(#c4)">
+<rect x="404" y="284" width="380" height="260" fill="#24211f"/>
+<g filter="url(#b)"><circle cx="484" cy="344" r="120" fill="#604439" opacity=".85"/><circle cx="724" cy="494" r="130" fill="#4d3e3a" opacity=".75"/></g>
+<rect x="404" y="284" width="380" height="260" fill="#24211f" opacity="0.25"/>
+<g>
+<rect x="428" y="306" width="332" height="160" rx="12" fill="#2a2624" fill-opacity=".55" stroke="#a69890" stroke-opacity=".22"/>
+<circle cx="444" cy="321" r="3.5" fill="#a69890" opacity=".5"/><circle cx="456" cy="321" r="3.5" fill="#a69890" opacity=".5"/><circle cx="468" cy="321" r="3.5" fill="#a69890" opacity=".5"/>
+<rect x="610" y="338" width="134" height="26" rx="10" fill="#352f2c" fill-opacity=".9"/>
+<rect x="620" y="348" width="100" height="7" rx="3.5" fill="#c8bcb3" opacity="1"/>
+<rect x="444" y="378" width="262" height="7" rx="3.5" fill="#ece5e0" opacity="0.85"/><rect x="444" y="392" width="222" height="7" rx="3.5" fill="#c8bcb3" opacity="0.75"/><rect x="444" y="406" width="182" height="7" rx="3.5" fill="#a69890" opacity="0.7"/>
+<rect x="444" y="432" width="300" height="22" rx="11" fill="#352f2c" fill-opacity=".7" stroke="#a69890" stroke-opacity=".2"/>
+<circle cx="733" cy="443" r="7" fill="#b5806a"/>
+</g>
+<text x="430" y="506" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#ece5e0">ember</text>
+<text x="430" y="528" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#a69890">dark · dying embers</text>
+</g>
+<rect x="404.5" y="284.5" width="379" height="259" rx="18" fill="none" stroke="#a69890" stroke-opacity=".25"/>
+</g>
+<g>
+<clipPath id="c5"><rect x="808" y="284" width="380" height="260" rx="18"/></clipPath>
+<g clip-path="url(#c5)">
+<rect x="808" y="284" width="380" height="260" fill="#dcd8e4"/>
+<g filter="url(#b)"><circle cx="888" cy="344" r="120" fill="#b9a6dc" opacity=".85"/><circle cx="1128" cy="494" r="130" fill="#a9c6b8" opacity=".75"/></g>
+<rect x="808" y="284" width="380" height="260" fill="#dcd8e4" opacity="0.3"/>
+<g>
+<rect x="832" y="306" width="332" height="160" rx="12" fill="#e2dee9" fill-opacity=".55" stroke="#5c566a" stroke-opacity=".22"/>
+<circle cx="848" cy="321" r="3.5" fill="#5c566a" opacity=".5"/><circle cx="860" cy="321" r="3.5" fill="#5c566a" opacity=".5"/><circle cx="872" cy="321" r="3.5" fill="#5c566a" opacity=".5"/>
+<rect x="1014" y="338" width="134" height="26" rx="10" fill="#e8e5ee" fill-opacity=".9"/>
+<rect x="1024" y="348" width="100" height="7" rx="3.5" fill="#4a4555" opacity="1"/>
+<rect x="848" y="378" width="262" height="7" rx="3.5" fill="#24212b" opacity="0.85"/><rect x="848" y="392" width="222" height="7" rx="3.5" fill="#4a4555" opacity="0.75"/><rect x="848" y="406" width="182" height="7" rx="3.5" fill="#5c566a" opacity="0.7"/>
+<rect x="848" y="432" width="300" height="22" rx="11" fill="#e8e5ee" fill-opacity=".7" stroke="#5c566a" stroke-opacity=".2"/>
+<circle cx="1137" cy="443" r="7" fill="#6b5a9a"/>
+</g>
+<text x="834" y="506" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#24212b">lilac</text>
+<text x="834" y="528" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#5c566a">light · lavender mist</text>
+</g>
+<rect x="808.5" y="284.5" width="379" height="259" rx="18" fill="none" stroke="#5c566a" stroke-opacity=".25"/>
+</g>
+<g>
+<clipPath id="c6"><rect x="0" y="568" width="380" height="260" rx="18"/></clipPath>
+<g clip-path="url(#c6)">
+<rect x="0" y="568" width="380" height="260" fill="#d6dfd7"/>
+<g filter="url(#b)"><circle cx="80" cy="628" r="120" fill="#a6caae" opacity=".85"/><circle cx="320" cy="778" r="130" fill="#b8b0cc" opacity=".75"/></g>
+<rect x="0" y="568" width="380" height="260" fill="#d6dfd7" opacity="0.3"/>
+<g>
+<rect x="24" y="590" width="332" height="160" rx="12" fill="#dce4dd" fill-opacity=".55" stroke="#535f56" stroke-opacity=".22"/>
+<circle cx="40" cy="605" r="3.5" fill="#535f56" opacity=".5"/><circle cx="52" cy="605" r="3.5" fill="#535f56" opacity=".5"/><circle cx="64" cy="605" r="3.5" fill="#535f56" opacity=".5"/>
+<rect x="206" y="622" width="134" height="26" rx="10" fill="#e3e9e3" fill-opacity=".9"/>
+<rect x="216" y="632" width="100" height="7" rx="3.5" fill="#435046" opacity="1"/>
+<rect x="40" y="662" width="262" height="7" rx="3.5" fill="#1f2a22" opacity="0.85"/><rect x="40" y="676" width="222" height="7" rx="3.5" fill="#435046" opacity="0.75"/><rect x="40" y="690" width="182" height="7" rx="3.5" fill="#535f56" opacity="0.7"/>
+<rect x="40" y="716" width="300" height="22" rx="11" fill="#e3e9e3" fill-opacity=".7" stroke="#535f56" stroke-opacity=".2"/>
+<circle cx="329" cy="727" r="7" fill="#4f7a5e"/>
+</g>
+<text x="26" y="790" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#1f2a22">sage</text>
+<text x="26" y="812" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#535f56">light · pale green-grey</text>
+</g>
+<rect x="0.5" y="568.5" width="379" height="259" rx="18" fill="none" stroke="#535f56" stroke-opacity=".25"/>
+</g>
+<g>
+<clipPath id="c7"><rect x="404" y="568" width="380" height="260" rx="18"/></clipPath>
+<g clip-path="url(#c7)">
+<rect x="404" y="568" width="380" height="260" fill="#e2d6d7"/>
+<g filter="url(#b)"><circle cx="484" cy="628" r="120" fill="#d8a6b2" opacity=".85"/><circle cx="724" cy="778" r="130" fill="#c2a8cc" opacity=".75"/></g>
+<rect x="404" y="568" width="380" height="260" fill="#e2d6d7" opacity="0.3"/>
+<g>
+<rect x="428" y="590" width="332" height="160" rx="12" fill="#e7dcdd" fill-opacity=".55" stroke="#66575b" stroke-opacity=".22"/>
+<circle cx="444" cy="605" r="3.5" fill="#66575b" opacity=".5"/><circle cx="456" cy="605" r="3.5" fill="#66575b" opacity=".5"/><circle cx="468" cy="605" r="3.5" fill="#66575b" opacity=".5"/>
+<rect x="610" y="622" width="134" height="26" rx="10" fill="#ece3e3" fill-opacity=".9"/>
+<rect x="620" y="632" width="100" height="7" rx="3.5" fill="#54464a" opacity="1"/>
+<rect x="444" y="662" width="262" height="7" rx="3.5" fill="#2b2022" opacity="0.85"/><rect x="444" y="676" width="222" height="7" rx="3.5" fill="#54464a" opacity="0.75"/><rect x="444" y="690" width="182" height="7" rx="3.5" fill="#66575b" opacity="0.7"/>
+<rect x="444" y="716" width="300" height="22" rx="11" fill="#ece3e3" fill-opacity=".7" stroke="#66575b" stroke-opacity=".2"/>
+<circle cx="733" cy="727" r="7" fill="#9a5a6a"/>
+</g>
+<text x="430" y="790" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#2b2022">clay</text>
+<text x="430" y="812" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#66575b">light · dusty rose</text>
+</g>
+<rect x="404.5" y="568.5" width="379" height="259" rx="18" fill="none" stroke="#66575b" stroke-opacity=".25"/>
+</g>
+<g>
+<clipPath id="c8"><rect x="808" y="568" width="380" height="260" rx="18"/></clipPath>
+<g clip-path="url(#c8)">
+<rect x="808" y="568" width="380" height="260" fill="#dad7d3"/>
+<g filter="url(#b)"><circle cx="888" cy="628" r="120" fill="#c6b6ae" opacity=".85"/><circle cx="1128" cy="778" r="130" fill="#aebcb4" opacity=".75"/></g>
+<rect x="808" y="568" width="380" height="260" fill="#dad7d3" opacity="0.3"/>
+<g>
+<rect x="832" y="590" width="332" height="160" rx="12" fill="#e0ddd9" fill-opacity=".55" stroke="#5e5852" stroke-opacity=".22"/>
+<circle cx="848" cy="605" r="3.5" fill="#5e5852" opacity=".5"/><circle cx="860" cy="605" r="3.5" fill="#5e5852" opacity=".5"/><circle cx="872" cy="605" r="3.5" fill="#5e5852" opacity=".5"/>
+<rect x="1014" y="622" width="134" height="26" rx="10" fill="#e6e3e0" fill-opacity=".9"/>
+<rect x="1024" y="632" width="100" height="7" rx="3.5" fill="#4d4843" opacity="1"/>
+<rect x="848" y="662" width="262" height="7" rx="3.5" fill="#26231f" opacity="0.85"/><rect x="848" y="676" width="222" height="7" rx="3.5" fill="#4d4843" opacity="0.75"/><rect x="848" y="690" width="182" height="7" rx="3.5" fill="#5e5852" opacity="0.7"/>
+<rect x="848" y="716" width="300" height="22" rx="11" fill="#e6e3e0" fill-opacity=".7" stroke="#5e5852" stroke-opacity=".2"/>
+<circle cx="1137" cy="727" r="7" fill="#6e6288"/>
+</g>
+<text x="834" y="790" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#26231f">stone</text>
+<text x="834" y="812" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="13" fill="#5e5852">light · warm grey pebble</text>
+</g>
+<rect x="808.5" y="568.5" width="379" height="259" rx="18" fill="none" stroke="#5e5852" stroke-opacity=".25"/>
+</g>
+</svg>

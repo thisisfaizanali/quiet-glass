@@ -1,0 +1,15 @@
+{
+  "name": "quiet-glass",
+  "version": "0.1.0",
+  "description": "A calm, minimal frosted-glass theme for the Claude desktop app, with nine soft dark and light variants.",
+  "author": { "name": "Faizan Ali" },
+  "license": "MIT",
+  "userConfig": {
+    "command": {
+      "type": "string",
+      "title": "Command name",
+      "description": "Slash command that switches the variant, without the slash.",
+      "default": "quiet-glass"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "quiet-glass",
+  "owner": { "name": "Faizan Ali" },
+  "metadata": { "description": "A calm, minimal frosted-glass theme for the Claude desktop app." },
+  "plugins": [{ "name": "quiet-glass", "source": "./" }]
+}
